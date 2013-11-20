@@ -2,7 +2,6 @@ package web;
 
 
 // Import required java libraries
-import java.lang.*
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
